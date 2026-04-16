@@ -7,7 +7,7 @@ export const personalInfo = {
   location: "Algeria"
 };
 
-export const aboutBio = `5th year Computer Science & AI engineering student at the National Higher School
+export const aboutBio = `4th year Computer Science & AI engineering student at the National Higher School
 of Artificial Intelligence (ENSIA), Algeria. I work across the full AI pipeline
 — from computer vision and deep learning to NLP, reinforcement learning, and
 symbolic AI. I've interned at Sirius Net, SONATRACH, and SLB, applying AI to
